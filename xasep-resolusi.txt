@@ -1,0 +1,9 @@
+xasep resolus
+-Memahami desaind web
+-Memahami Sistem  informasi
+-Memahami Sistem abstrak
+-Memahami Sistem fisik
+-Memahami Sistem Deterministik
+-Memahami Sistem Probalistik
+-Memahami Sistem terbuka
+-Memahami Sistem Tertutup
